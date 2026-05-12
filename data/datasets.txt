@@ -1,0 +1,15 @@
+Datasets utilizados en el proyecto:
+
+- conexiones_limpio.csv
+- reclamos_limpio.csv
+- cobertura_limpio.csv
+- muestra_limpio.csv
+
+Los datasets de gran tamaño no fueron subidos al repositorio debido al límite de carga de GitHub web (>25 MB).
+
+Todos los archivos fueron utilizados localmente durante:
+- proceso ETL
+- modelado dimensional
+- cálculo de KPIs
+- validación estadística
+- construcción del dashboard
